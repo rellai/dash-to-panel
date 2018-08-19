@@ -82,7 +82,7 @@ msgstr "Окна"
 
 #: appIcons.js:1498
 msgid "Dash to Panel Settings"
-msgstr "Dash to Panel Настройки"
+msgstr "Настройки"
 
 #: appIcons.js:1505
 msgid "Restore Windows"
